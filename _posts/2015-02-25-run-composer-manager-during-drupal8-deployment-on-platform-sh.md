@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Run Composer Manager during Drupal 8 deployment on platform.sh
+share-description: 
 date:       2015-02-25
 tags:       [composer]
 ---

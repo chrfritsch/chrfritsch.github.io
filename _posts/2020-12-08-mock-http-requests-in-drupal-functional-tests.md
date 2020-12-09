@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Mock HTTP requests in Drupal functional tests
+share-description: 
 date:       2020-12-08
 tags:       [tests, guzzle, drupal]
 ---
