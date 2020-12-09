@@ -2,7 +2,7 @@
 layout:     post
 title:      Mock HTTP requests in Drupal functional tests
 date:       2020-12-08
-tags:       [tests, guzzle]
+tags:       [tests, guzzle, drupal]
 ---
 
 When you are writing functional tests in Drupal (BrowserTestBase or FunctionalJavascript), you sometimes execute some code that makes external requests.
