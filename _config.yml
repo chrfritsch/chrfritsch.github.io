@@ -87,7 +87,7 @@ feed_show_tags: true
 remove-ads: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Drupal, Guzzle, Mac, PHP, Docker, Symfony"
 
 # --- Colours / background image --- #
 
